@@ -1,6 +1,6 @@
 # hello-world
-[Github Practice run](#project-title)  
-[I am a BAIS student at UIOWA and this is my first repository.](#description)  
+[Project Title](#project-title)  
+[Despcription](#description)  
 [Tools used](#Tools-used)  
 [Files Used](#files-used)
 [How to Run Program](#how-to-run-program)  
@@ -8,27 +8,26 @@
 
 
 ## Project title    
-
+Hello World - First Repository.    
 
 
 
 
 ## Description    
-
+Learning how to use Git.    
 
 
 
 ## Tools Used  
+Git  
 
 
 
-
-## Files Used  
-
+## Files Used   
 
 
 ## How to Run Program  
-
+Click on the hyperlinks to navigate the page.  
 
 
 
