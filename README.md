@@ -8,13 +8,13 @@
 
 
 ## Project title    
-Hello World - First Repository.    
+*Hello World - First Repository.*    
 
 
 
 
 ## Description    
-Learning how to use Git.    
+_Learning how to use Git._    
 
 
 
@@ -27,7 +27,7 @@ Git
 
 
 ## How to Run Program  
-Click on the hyperlinks to navigate the page.  
+***Click on the hyperlinks to navigate the page.***  
 
 
 
